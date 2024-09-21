@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notclicker/static/css/main.58b2cde4.css",
+    "main.js": "/notclicker/static/js/main.1cc1167f.js",
+    "static/media/notcoin.png": "/notclicker/static/media/notcoin.cf5f3020b488e269a55e.png",
+    "index.html": "/notclicker/index.html",
+    "main.58b2cde4.css.map": "/notclicker/static/css/main.58b2cde4.css.map",
+    "main.1cc1167f.js.map": "/notclicker/static/js/main.1cc1167f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b2cde4.css",
+    "static/js/main.1cc1167f.js"
+  ]
+}
