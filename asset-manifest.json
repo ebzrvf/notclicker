@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/notclicker/static/css/main.f1ae23b8.css",
-    "main.js": "/notclicker/static/js/main.d28f1faf.js",
+    "main.css": "/notclicker/static/css/main.9c56fa27.css",
+    "main.js": "/notclicker/static/js/main.7c5e147e.js",
     "static/media/notcoin.png": "/notclicker/static/media/notcoin.cf5f3020b488e269a55e.png",
     "index.html": "/notclicker/index.html",
-    "main.f1ae23b8.css.map": "/notclicker/static/css/main.f1ae23b8.css.map",
-    "main.d28f1faf.js.map": "/notclicker/static/js/main.d28f1faf.js.map"
+    "main.9c56fa27.css.map": "/notclicker/static/css/main.9c56fa27.css.map",
+    "main.7c5e147e.js.map": "/notclicker/static/js/main.7c5e147e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1ae23b8.css",
-    "static/js/main.d28f1faf.js"
+    "static/css/main.9c56fa27.css",
+    "static/js/main.7c5e147e.js"
   ]
 }
